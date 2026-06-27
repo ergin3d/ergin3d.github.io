@@ -560,7 +560,7 @@ const ABOUT = {
     { year: "2017", title: "Lead game designer", text: "Led design across game, animation and software studios — hand-crafting most of the art and the code myself with Unreal Blueprints and Unity (C#), long before “vibe coding” had a name. Shipped 2 Steam games, 3 Meta VR games, and many Android and iOS titles." },
     { year: "2020", title: "Medical animation", text: "Produced hours of realistic 3D medical animation." },
     { year: "2024", title: "Defence industry", text: "Created 3D animations for the defence industry." },
-    { year: "2026", title: "Creative developer · ideCAD", text: "Creative developer at ideCAD — bringing three decades full circle, back to architectural software." }
+    { year: "2026", title: "Creative developer", text: "Creative developer — bringing three decades full circle, back to architectural software." }
   ],
   stack: [
     "3ds Max", "V-Ray", "ZBrush", "Substance",
